@@ -2,7 +2,6 @@
 ## MrRobot
 <details>
   <summary>Preview</summary>
-
   ![11](./Copy_to_SD/MrRobot_1.bmp)
   ![12](./Copy_to_SD/MrRobot_2.bmp)
   ![13](./Copy_to_SD/MrRobot_3.bmp)
@@ -12,14 +11,16 @@
   ![17](./Copy_to_SD/MrRobot_7.bmp)
   ![18](./Copy_to_SD/MrRobot_8.bmp)
   ![19](./Copy_to_SD/MrRobot_9.bmp)
-
 </details>
 
 ## Anonymous
-![21](./Copy_to_SD/Anonymous_1.bmp)
-![22](./Copy_to_SD/Anonymous_2.bmp)
-![23](./Copy_to_SD/Anonymous_3.bmp)
-![24](./Copy_to_SD/Anonymous_4.bmp)
+<details>
+  <summary>Preview</summary>
+  ![21](./Copy_to_SD/Anonymous_1.bmp)
+  ![22](./Copy_to_SD/Anonymous_2.bmp)
+  ![23](./Copy_to_SD/Anonymous_3.bmp)
+  ![24](./Copy_to_SD/Anonymous_4.bmp)
+</details>  
 ## Watchdogs
 ![31](./Copy_to_SD/WatchDogs_1.bmp)
 ![32](./Copy_to_SD/WatchDogs_2.bmp)
