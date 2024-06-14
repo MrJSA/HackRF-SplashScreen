@@ -1,22 +1,20 @@
 # HackRF-SplashScreen
 ## MrRobot
 <details>
-  <summary># MrRobot</summary>
+  <summary>Preview</summary>
 
-  ```
-  long console output here
-  ```
+  ![11](./Copy_to_SD/MrRobot_1.bmp)
+  ![12](./Copy_to_SD/MrRobot_2.bmp)
+  ![13](./Copy_to_SD/MrRobot_3.bmp)
+  ![14](./Copy_to_SD/MrRobot_4.bmp)
+  ![15](./Copy_to_SD/MrRobot_5.bmp)
+  ![16](./Copy_to_SD/MrRobot_6.bmp)
+  ![17](./Copy_to_SD/MrRobot_7.bmp)
+  ![18](./Copy_to_SD/MrRobot_8.bmp)
+  ![19](./Copy_to_SD/MrRobot_9.bmp)
+
 </details>
 
-![11](./Copy_to_SD/MrRobot_1.bmp)
-![12](./Copy_to_SD/MrRobot_2.bmp)
-![13](./Copy_to_SD/MrRobot_3.bmp)
-![14](./Copy_to_SD/MrRobot_4.bmp)
-![15](./Copy_to_SD/MrRobot_5.bmp)
-![16](./Copy_to_SD/MrRobot_6.bmp)
-![17](./Copy_to_SD/MrRobot_7.bmp)
-![18](./Copy_to_SD/MrRobot_8.bmp)
-![19](./Copy_to_SD/MrRobot_9.bmp)
 ## Anonymous
 ![21](./Copy_to_SD/Anonymous_1.bmp)
 ![22](./Copy_to_SD/Anonymous_2.bmp)
