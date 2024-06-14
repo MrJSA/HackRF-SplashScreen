@@ -1,12 +1,13 @@
 # HackRF-SplashScreen
 ## MrRobot
 <details>
-  <summary>## MrRobot</summary>
+  <summary>MrRobot</summary>
 
   ```
   long console output here
   ```
 </details>
+
 ![11](./Copy_to_SD/MrRobot_1.bmp)
 ![12](./Copy_to_SD/MrRobot_2.bmp)
 ![13](./Copy_to_SD/MrRobot_3.bmp)
