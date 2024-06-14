@@ -23,7 +23,6 @@
   ![22](./Copy_to_SD/Anonymous_2.bmp)
   ![23](./Copy_to_SD/Anonymous_3.bmp)
   ![24](./Copy_to_SD/Anonymous_4.bmp)
-  
 </details>
 
 ## Watchdogs
