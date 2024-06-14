@@ -12,7 +12,6 @@
   ![17](./Copy_to_SD/MrRobot_7.bmp)
   ![18](./Copy_to_SD/MrRobot_8.bmp)
   ![19](./Copy_to_SD/MrRobot_9.bmp)
-  
 </details>
 
 ## Anonymous
@@ -36,17 +35,15 @@
   ![35](./Copy_to_SD/WatchDogs_5.bmp)
   ![36](./Copy_to_SD/WatchDogs_6.bmp)
   ![37](./Copy_to_SD/WatchDogs_7.bmp)
-  
-  </details>
+</details>
 
 ## Matrix
-  <details>
+<details>
   <summary>Preview</summary>
     
   ![41](./Copy_to_SD/Matrix_1.bmp)
   ![42](./Copy_to_SD/Matrix_2.bmp)
-  
-    </details>
+</details>
 
 ## Kali
 <details>
@@ -56,14 +53,12 @@
   ![52](./Copy_to_SD/Kali_2.bmp)
   ![53](./Copy_to_SD/Kali_3.bmp)
   ![54](./Copy_to_SD/Kali_4.bmp)
-  
-  </details>
+</details>
 
 ## Cyberpunk
 <details>
   <summary>Preview</summary>
   
   ![61](./Copy_to_SD/Cyberpunk_1.bmp)
-  
-  </details>
+</details>
 
