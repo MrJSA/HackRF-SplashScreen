@@ -1,7 +1,7 @@
 # HackRF-SplashScreen
 ## MrRobot
 <details>
-  <summary>MrRobot</summary>
+  <summary># MrRobot</summary>
 
   ```
   long console output here
